@@ -2,4 +2,4 @@ PrintF
 
 ```Submitted by```
 
-```Olajuwon Mubarak``` 
+```Olajuwon Mubarak & Haruna Rukaya``` 
